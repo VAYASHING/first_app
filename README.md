@@ -1,5 +1,5 @@
 # Ruby on Rails チュートリアル：サンプルアプリケーション
 
-これは以下のチュートリアルに沿って作られたサンプルアプリです。
+これは、以下のためのサンプルアプリケーションです。
 [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
 by [Michael Hartl](http://michaelhartl.com/).
